@@ -111,3 +111,4 @@
 //     blinkTextElement.style.opacity = 0;
 //   }
 // }, 1000);
+
